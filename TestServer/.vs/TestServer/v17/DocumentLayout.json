@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SPRING2025-ki7\\prn222\\code\\testSeverAppAndClient\\TestServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB71238-70C2-4605-BDA1-FB3DEAAAE7DA}|ClientApp\\ClientApp.csproj|d:\\spring2025-ki7\\prn222\\code\\testseverappandclient\\testserver\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB71238-70C2-4605-BDA1-FB3DEAAAE7DA}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2B2ECA-729E-47AF-9BD0-BD2B339DB909}|SeverApp\\SeverApp.csproj|d:\\spring2025-ki7\\prn222\\code\\testseverappandclient\\testserver\\severapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2B2ECA-729E-47AF-9BD0-BD2B339DB909}|SeverApp\\SeverApp.csproj|solutionrelative:severapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SPRING2025-ki7\\prn222\\code\\testSeverAppAndClient\\TestServer\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "D:\\SPRING2025-ki7\\prn222\\code\\testSeverAppAndClient\\TestServer\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:17:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SPRING2025-ki7\\prn222\\code\\testSeverAppAndClient\\TestServer\\SeverApp\\Program.cs",
+              "RelativeDocumentMoniker": "SeverApp\\Program.cs",
+              "ToolTip": "D:\\SPRING2025-ki7\\prn222\\code\\testSeverAppAndClient\\TestServer\\SeverApp\\Program.cs",
+              "RelativeToolTip": "SeverApp\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:07:21.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

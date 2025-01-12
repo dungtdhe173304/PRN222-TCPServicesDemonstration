@@ -1,0 +1,7 @@
+D:\SPRING2025-ki7\prn222\code\testSeverAppAndClient\TestServer\SeverApp\bin\Debug\SeverApp.exe.config
+D:\SPRING2025-ki7\prn222\code\testSeverAppAndClient\TestServer\SeverApp\bin\Debug\SeverApp.exe
+D:\SPRING2025-ki7\prn222\code\testSeverAppAndClient\TestServer\SeverApp\bin\Debug\SeverApp.pdb
+D:\SPRING2025-ki7\prn222\code\testSeverAppAndClient\TestServer\SeverApp\obj\Debug\SeverApp.csproj.AssemblyReference.cache
+D:\SPRING2025-ki7\prn222\code\testSeverAppAndClient\TestServer\SeverApp\obj\Debug\SeverApp.csproj.CoreCompileInputs.cache
+D:\SPRING2025-ki7\prn222\code\testSeverAppAndClient\TestServer\SeverApp\obj\Debug\SeverApp.exe
+D:\SPRING2025-ki7\prn222\code\testSeverAppAndClient\TestServer\SeverApp\obj\Debug\SeverApp.pdb
